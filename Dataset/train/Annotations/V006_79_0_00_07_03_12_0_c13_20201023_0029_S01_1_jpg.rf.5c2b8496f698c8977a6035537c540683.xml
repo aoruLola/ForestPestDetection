@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>V006_79_0_00_07_03_12_0_c13_20201023_0029_S01_1_jpg.rf.5c2b8496f698c8977a6035537c540683.jpg</filename>
+	<path>V006_79_0_00_07_03_12_0_c13_20201023_0029_S01_1_jpg.rf.5c2b8496f698c8977a6035537c540683.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>25</xmin>
+			<xmax>636</xmax>
+			<ymin>65</ymin>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+</annotation>

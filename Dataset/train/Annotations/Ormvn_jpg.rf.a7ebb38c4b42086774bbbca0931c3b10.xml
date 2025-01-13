@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Ormvn_jpg.rf.a7ebb38c4b42086774bbbca0931c3b10.jpg</filename>
+	<path>Ormvn_jpg.rf.a7ebb38c4b42086774bbbca0931c3b10.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>75</xmin>
+			<xmax>522</xmax>
+			<ymin>42</ymin>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+</annotation>

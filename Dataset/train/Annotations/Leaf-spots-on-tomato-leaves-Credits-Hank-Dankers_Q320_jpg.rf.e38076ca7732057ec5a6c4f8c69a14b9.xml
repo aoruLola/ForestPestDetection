@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Leaf-spots-on-tomato-leaves-Credits-Hank-Dankers_Q320_jpg.rf.e38076ca7732057ec5a6c4f8c69a14b9.jpg</filename>
+	<path>Leaf-spots-on-tomato-leaves-Credits-Hank-Dankers_Q320_jpg.rf.e38076ca7732057ec5a6c4f8c69a14b9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>166</xmin>
+			<xmax>640</xmax>
+			<ymin>236</ymin>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>375</xmax>
+			<ymin>274</ymin>
+			<ymax>588</ymax>
+		</bndbox>
+	</object>
+</annotation>

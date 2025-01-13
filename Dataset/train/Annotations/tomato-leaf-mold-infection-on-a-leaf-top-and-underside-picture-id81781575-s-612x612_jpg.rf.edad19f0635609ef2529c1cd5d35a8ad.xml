@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>tomato-leaf-mold-infection-on-a-leaf-top-and-underside-picture-id81781575-s-612x612_jpg.rf.edad19f0635609ef2529c1cd5d35a8ad.jpg</filename>
+	<path>tomato-leaf-mold-infection-on-a-leaf-top-and-underside-picture-id81781575-s-612x612_jpg.rf.edad19f0635609ef2529c1cd5d35a8ad.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>265</xmin>
+			<xmax>608</xmax>
+			<ymin>170</ymin>
+			<ymax>524</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>38</xmin>
+			<xmax>273</xmax>
+			<ymin>13</ymin>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

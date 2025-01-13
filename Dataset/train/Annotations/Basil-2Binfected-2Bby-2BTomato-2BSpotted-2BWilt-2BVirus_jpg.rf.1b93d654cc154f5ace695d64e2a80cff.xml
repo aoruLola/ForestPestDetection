@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Basil-2Binfected-2Bby-2BTomato-2BSpotted-2BWilt-2BVirus_jpg.rf.1b93d654cc154f5ace695d64e2a80cff.jpg</filename>
+	<path>Basil-2Binfected-2Bby-2BTomato-2BSpotted-2BWilt-2BVirus_jpg.rf.1b93d654cc154f5ace695d64e2a80cff.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>52</xmin>
+			<xmax>321</xmax>
+			<ymin>14</ymin>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>193</xmin>
+			<xmax>513</xmax>
+			<ymin>84</ymin>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

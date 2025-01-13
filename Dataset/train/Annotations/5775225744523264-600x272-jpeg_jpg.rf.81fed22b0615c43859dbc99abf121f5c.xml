@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>5775225744523264-600x272-jpeg_jpg.rf.81fed22b0615c43859dbc99abf121f5c.jpg</filename>
+	<path>5775225744523264-600x272-jpeg_jpg.rf.81fed22b0615c43859dbc99abf121f5c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>180</xmin>
+			<xmax>254</xmax>
+			<ymin>1</ymin>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>198</xmin>
+			<xmax>438</xmax>
+			<ymin>2</ymin>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>452</xmin>
+			<xmax>572</xmax>
+			<ymin>23</ymin>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+</annotation>

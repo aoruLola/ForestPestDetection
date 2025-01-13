@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>DSCN1016_JPG_jpg.rf.ec6817c74fa483440da1af64faec8a13.jpg</filename>
+	<path>DSCN1016_JPG_jpg.rf.ec6817c74fa483440da1af64faec8a13.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>90</xmin>
+			<xmax>289</xmax>
+			<ymin>321</ymin>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>303</xmin>
+			<xmax>481</xmax>
+			<ymin>256</ymin>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>

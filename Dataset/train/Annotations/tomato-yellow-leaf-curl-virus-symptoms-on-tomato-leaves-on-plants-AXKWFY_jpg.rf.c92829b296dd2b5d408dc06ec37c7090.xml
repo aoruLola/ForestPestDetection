@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>tomato-yellow-leaf-curl-virus-symptoms-on-tomato-leaves-on-plants-AXKWFY_jpg.rf.c92829b296dd2b5d408dc06ec37c7090.jpg</filename>
+	<path>tomato-yellow-leaf-curl-virus-symptoms-on-tomato-leaves-on-plants-AXKWFY_jpg.rf.c92829b296dd2b5d408dc06ec37c7090.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>346</xmin>
+			<xmax>390</xmax>
+			<ymin>350</ymin>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>359</xmin>
+			<xmax>422</xmax>
+			<ymin>314</ymin>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>323</xmin>
+			<xmax>376</xmax>
+			<ymin>330</ymin>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

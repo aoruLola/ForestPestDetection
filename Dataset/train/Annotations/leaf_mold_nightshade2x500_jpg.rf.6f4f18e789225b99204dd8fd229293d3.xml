@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>leaf_mold_nightshade2x500_jpg.rf.6f4f18e789225b99204dd8fd229293d3.jpg</filename>
+	<path>leaf_mold_nightshade2x500_jpg.rf.6f4f18e789225b99204dd8fd229293d3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>629</xmax>
+			<ymin>7</ymin>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+</annotation>

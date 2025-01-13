@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>17371378-tomato-leaf_jpg.rf.2cc32150756d52771381475f86076207.jpg</filename>
+	<path>17371378-tomato-leaf_jpg.rf.2cc32150756d52771381475f86076207.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>176</xmin>
+			<xmax>487</xmax>
+			<ymin>20</ymin>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>

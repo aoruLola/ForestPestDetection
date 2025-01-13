@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>h91_jpg.rf.c6c5583c399b85b6e10d869b08859a1b.jpg</filename>
+	<path>h91_jpg.rf.c6c5583c399b85b6e10d869b08859a1b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>131</xmin>
+			<xmax>458</xmax>
+			<ymin>93</ymin>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+</annotation>

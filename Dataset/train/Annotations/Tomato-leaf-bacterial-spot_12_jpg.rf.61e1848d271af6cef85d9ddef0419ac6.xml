@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Tomato-leaf-bacterial-spot_12_jpg.rf.61e1848d271af6cef85d9ddef0419ac6.jpg</filename>
+	<path>Tomato-leaf-bacterial-spot_12_jpg.rf.61e1848d271af6cef85d9ddef0419ac6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>79</xmin>
+			<xmax>258</xmax>
+			<ymin>12</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

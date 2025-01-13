@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>OLU13_jpg.rf.e4b312ad80e8ab86755d9e8e6dbfcc99.jpg</filename>
+	<path>OLU13_jpg.rf.e4b312ad80e8ab86755d9e8e6dbfcc99.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>146</xmin>
+			<xmax>515</xmax>
+			<ymin>153</ymin>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>455</xmin>
+			<xmax>613</xmax>
+			<ymin>10</ymin>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

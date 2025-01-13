@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>fpls-08-01602-g001_jpg.rf.330be35e396b17256bc060e4370c98cd.jpg</filename>
+	<path>fpls-08-01602-g001_jpg.rf.330be35e396b17256bc060e4370c98cd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>509</xmax>
+			<ymin>37</ymin>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>254</xmin>
+			<xmax>627</xmax>
+			<ymin>420</ymin>
+			<ymax>630</ymax>
+		</bndbox>
+	</object>
+</annotation>

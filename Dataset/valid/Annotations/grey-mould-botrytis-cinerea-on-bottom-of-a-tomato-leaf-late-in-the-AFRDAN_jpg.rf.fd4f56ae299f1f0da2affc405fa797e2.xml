@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>grey-mould-botrytis-cinerea-on-bottom-of-a-tomato-leaf-late-in-the-AFRDAN_jpg.rf.fd4f56ae299f1f0da2affc405fa797e2.jpg</filename>
+	<path>grey-mould-botrytis-cinerea-on-bottom-of-a-tomato-leaf-late-in-the-AFRDAN_jpg.rf.fd4f56ae299f1f0da2affc405fa797e2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>635</xmax>
+			<ymin>52</ymin>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>

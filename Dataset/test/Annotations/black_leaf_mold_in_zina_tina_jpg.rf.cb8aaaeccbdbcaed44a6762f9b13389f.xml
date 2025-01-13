@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>black_leaf_mold_in_zina_tina_jpg.rf.cb8aaaeccbdbcaed44a6762f9b13389f.jpg</filename>
+	<path>black_leaf_mold_in_zina_tina_jpg.rf.cb8aaaeccbdbcaed44a6762f9b13389f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>558</xmin>
+			<xmax>635</xmax>
+			<ymin>148</ymin>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>129</xmin>
+			<xmax>321</xmax>
+			<ymin>193</ymin>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>372</xmin>
+			<xmax>507</xmax>
+			<ymin>8</ymin>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

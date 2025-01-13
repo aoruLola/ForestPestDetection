@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>b54d0e40027ff5e90e8ba7e1e9abf9bd-garden-guide-garden-ideas_jpg.rf.c49ac8b70bdbcc4869eaf989b2cb3943.jpg</filename>
+	<path>b54d0e40027ff5e90e8ba7e1e9abf9bd-garden-guide-garden-ideas_jpg.rf.c49ac8b70bdbcc4869eaf989b2cb3943.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>104</xmin>
+			<xmax>640</xmax>
+			<ymin>42</ymin>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>
