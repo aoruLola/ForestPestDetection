@@ -1,0 +1,79 @@
+<annotation>
+	<folder></folder>
+	<filename>tomato-diseases-1-638_jpg.rf.caada9800e2874f365fcd011159a507b.jpg</filename>
+	<path>tomato-diseases-1-638_jpg.rf.caada9800e2874f365fcd011159a507b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>315</xmin>
+			<xmax>622</xmax>
+			<ymin>138</ymin>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>153</xmin>
+			<xmax>198</xmax>
+			<ymin>133</ymin>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>115</xmin>
+			<xmax>192</xmax>
+			<ymin>321</ymin>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>169</xmin>
+			<xmax>227</xmax>
+			<ymin>278</ymin>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>210</xmin>
+			<xmax>287</xmax>
+			<ymin>146</ymin>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

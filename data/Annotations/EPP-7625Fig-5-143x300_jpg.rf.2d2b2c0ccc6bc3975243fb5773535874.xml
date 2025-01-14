@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>EPP-7625Fig-5-143x300_jpg.rf.2d2b2c0ccc6bc3975243fb5773535874.jpg</filename>
+	<path>EPP-7625Fig-5-143x300_jpg.rf.2d2b2c0ccc6bc3975243fb5773535874.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>346</xmin>
+			<xmax>628</xmax>
+			<ymin>422</ymin>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>53</xmin>
+			<xmax>622</xmax>
+			<ymin>21</ymin>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,92 @@
+<annotation>
+	<folder></folder>
+	<filename>SeptoriaLeaf_T3_jpg.rf.0b68add1ff5a3d5fe2a553bedaf249b3.jpg</filename>
+	<path>SeptoriaLeaf_T3_jpg.rf.0b68add1ff5a3d5fe2a553bedaf249b3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>3</xmin>
+			<xmax>130</xmax>
+			<ymin>299</ymin>
+			<ymax>638</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>458</xmin>
+			<xmax>544</xmax>
+			<ymin>6</ymin>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>558</xmin>
+			<xmax>639</xmax>
+			<ymin>269</ymin>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>300</xmin>
+			<xmax>420</xmax>
+			<ymin>517</ymin>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>152</xmin>
+			<xmax>299</xmax>
+			<ymin>249</ymin>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>317</xmin>
+			<xmax>463</xmax>
+			<ymin>121</ymin>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+</annotation>

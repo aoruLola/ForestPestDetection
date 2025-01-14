@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>h26_jpg.rf.61f2ec722410e67ea06121cf8f699e51.jpg</filename>
+	<path>h26_jpg.rf.61f2ec722410e67ea06121cf8f699e51.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>98</xmin>
+			<xmax>415</xmax>
+			<ymin>109</ymin>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,92 @@
+<annotation>
+	<folder></folder>
+	<filename>tomato-yellow-leaf-curl-disease-260nw-1072448252_jpg.rf.ac1d7bef5589f16c28b7e1c9b9cfaf35.jpg</filename>
+	<path>tomato-yellow-leaf-curl-disease-260nw-1072448252_jpg.rf.ac1d7bef5589f16c28b7e1c9b9cfaf35.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>463</xmin>
+			<xmax>516</xmax>
+			<ymin>260</ymin>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>233</xmin>
+			<xmax>324</xmax>
+			<ymin>173</ymin>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>189</xmin>
+			<xmax>282</xmax>
+			<ymin>216</ymin>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>191</xmin>
+			<xmax>257</xmax>
+			<ymin>369</ymin>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>129</xmin>
+			<xmax>215</xmax>
+			<ymin>344</ymin>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>226</xmin>
+			<xmax>318</xmax>
+			<ymin>277</ymin>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

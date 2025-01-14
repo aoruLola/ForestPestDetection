@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>tomato-yellow-leaf-curl-virus-tylcv_950983_jpg.rf.7c4e4f1da9838895bf31b2852bcba20b.jpg</filename>
+	<path>tomato-yellow-leaf-curl-virus-tylcv_950983_jpg.rf.7c4e4f1da9838895bf31b2852bcba20b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>527</xmin>
+			<xmax>632</xmax>
+			<ymin>262</ymin>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>221</xmin>
+			<xmax>389</xmax>
+			<ymin>202</ymin>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+</annotation>

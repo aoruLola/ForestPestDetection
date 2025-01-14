@@ -1,0 +1,105 @@
+<annotation>
+	<folder></folder>
+	<filename>p1011399_jpg.rf.df3514f8f6a1dfaed952922908af5680.jpg</filename>
+	<path>p1011399_jpg.rf.df3514f8f6a1dfaed952922908af5680.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>236</xmin>
+			<xmax>324</xmax>
+			<ymin>368</ymin>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>189</xmin>
+			<xmax>326</xmax>
+			<ymin>459</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>101</xmin>
+			<xmax>260</xmax>
+			<ymin>311</ymin>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>94</xmin>
+			<xmax>248</xmax>
+			<ymin>162</ymin>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>434</xmin>
+			<xmax>570</xmax>
+			<ymin>239</ymin>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>478</xmin>
+			<xmax>564</xmax>
+			<ymin>418</ymin>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>534</xmin>
+			<xmax>641</xmax>
+			<ymin>371</ymin>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

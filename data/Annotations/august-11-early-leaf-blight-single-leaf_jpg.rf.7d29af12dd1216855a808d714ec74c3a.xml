@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>august-11-early-leaf-blight-single-leaf_jpg.rf.7d29af12dd1216855a808d714ec74c3a.jpg</filename>
+	<path>august-11-early-leaf-blight-single-leaf_jpg.rf.7d29af12dd1216855a808d714ec74c3a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>74</xmin>
+			<xmax>602</xmax>
+			<ymin>147</ymin>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+</annotation>

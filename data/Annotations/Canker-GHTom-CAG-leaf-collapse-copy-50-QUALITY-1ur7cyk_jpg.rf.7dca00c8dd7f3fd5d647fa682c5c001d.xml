@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Canker-GHTom-CAG-leaf-collapse-copy-50-QUALITY-1ur7cyk_jpg.rf.7dca00c8dd7f3fd5d647fa682c5c001d.jpg</filename>
+	<path>Canker-GHTom-CAG-leaf-collapse-copy-50-QUALITY-1ur7cyk_jpg.rf.7dca00c8dd7f3fd5d647fa682c5c001d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>136</xmin>
+			<xmax>520</xmax>
+			<ymin>20</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

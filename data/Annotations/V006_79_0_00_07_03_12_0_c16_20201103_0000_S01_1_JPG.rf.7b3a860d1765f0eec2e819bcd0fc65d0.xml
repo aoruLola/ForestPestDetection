@@ -1,0 +1,92 @@
+<annotation>
+	<folder></folder>
+	<filename>V006_79_0_00_07_03_12_0_c16_20201103_0000_S01_1_JPG.rf.7b3a860d1765f0eec2e819bcd0fc65d0.jpg</filename>
+	<path>V006_79_0_00_07_03_12_0_c16_20201103_0000_S01_1_JPG.rf.7b3a860d1765f0eec2e819bcd0fc65d0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>154</xmin>
+			<xmax>257</xmax>
+			<ymin>71</ymin>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>312</xmin>
+			<xmax>459</xmax>
+			<ymin>25</ymin>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>443</xmin>
+			<xmax>554</xmax>
+			<ymin>266</ymin>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>114</xmin>
+			<xmax>172</xmax>
+			<ymin>363</ymin>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>174</xmin>
+			<xmax>320</xmax>
+			<ymin>349</ymin>
+			<ymax>619</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>310</xmin>
+			<xmax>440</xmax>
+			<ymin>383</ymin>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

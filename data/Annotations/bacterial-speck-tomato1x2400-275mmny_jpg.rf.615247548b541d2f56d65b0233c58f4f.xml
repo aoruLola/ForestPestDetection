@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>bacterial-speck-tomato1x2400-275mmny_jpg.rf.615247548b541d2f56d65b0233c58f4f.jpg</filename>
+	<path>bacterial-speck-tomato1x2400-275mmny_jpg.rf.615247548b541d2f56d65b0233c58f4f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>464</xmin>
+			<xmax>611</xmax>
+			<ymin>21</ymin>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>337</xmax>
+			<ymin>1</ymin>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>177</xmin>
+			<xmax>640</xmax>
+			<ymin>171</ymin>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>

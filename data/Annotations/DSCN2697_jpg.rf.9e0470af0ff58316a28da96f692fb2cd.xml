@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>DSCN2697_jpg.rf.9e0470af0ff58316a28da96f692fb2cd.jpg</filename>
+	<path>DSCN2697_jpg.rf.9e0470af0ff58316a28da96f692fb2cd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>113</xmin>
+			<xmax>627</xmax>
+			<ymin>132</ymin>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+</annotation>

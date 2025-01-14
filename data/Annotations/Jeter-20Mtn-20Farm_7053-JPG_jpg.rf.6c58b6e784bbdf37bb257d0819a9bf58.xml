@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Jeter-20Mtn-20Farm_7053-JPG_jpg.rf.6c58b6e784bbdf37bb257d0819a9bf58.jpg</filename>
+	<path>Jeter-20Mtn-20Farm_7053-JPG_jpg.rf.6c58b6e784bbdf37bb257d0819a9bf58.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>289</xmin>
+			<xmax>640</xmax>
+			<ymin>84</ymin>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>

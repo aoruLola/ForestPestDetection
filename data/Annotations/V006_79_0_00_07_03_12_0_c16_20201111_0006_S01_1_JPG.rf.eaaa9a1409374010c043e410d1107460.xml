@@ -1,0 +1,79 @@
+<annotation>
+	<folder></folder>
+	<filename>V006_79_0_00_07_03_12_0_c16_20201111_0006_S01_1_JPG.rf.eaaa9a1409374010c043e410d1107460.jpg</filename>
+	<path>V006_79_0_00_07_03_12_0_c16_20201111_0006_S01_1_JPG.rf.eaaa9a1409374010c043e410d1107460.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>439</xmin>
+			<xmax>602</xmax>
+			<ymin>179</ymin>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>319</xmin>
+			<xmax>454</xmax>
+			<ymin>40</ymin>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>326</xmin>
+			<xmax>455</xmax>
+			<ymin>317</ymin>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>183</xmin>
+			<xmax>282</xmax>
+			<ymin>353</ymin>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>190</xmin>
+			<xmax>279</xmax>
+			<ymin>92</ymin>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

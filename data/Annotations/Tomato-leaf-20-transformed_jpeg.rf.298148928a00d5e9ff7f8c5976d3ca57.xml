@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>Tomato-leaf-20-transformed_jpeg.rf.298148928a00d5e9ff7f8c5976d3ca57.jpg</filename>
+	<path>Tomato-leaf-20-transformed_jpeg.rf.298148928a00d5e9ff7f8c5976d3ca57.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>58</xmin>
+			<xmax>203</xmax>
+			<ymin>94</ymin>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>191</xmin>
+			<xmax>289</xmax>
+			<ymin>461</ymin>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>265</xmin>
+			<xmax>481</xmax>
+			<ymin>421</ymin>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>259</xmin>
+			<xmax>553</xmax>
+			<ymin>48</ymin>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

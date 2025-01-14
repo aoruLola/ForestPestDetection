@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>KakaoTalk_20220418_092431888_jpg.rf.926c77485b5c31b3bd474d8b796c77ba.jpg</filename>
+	<path>KakaoTalk_20220418_092431888_jpg.rf.926c77485b5c31b3bd474d8b796c77ba.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>118</xmin>
+			<xmax>562</xmax>
+			<ymin>118</ymin>
+			<ymax>631</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>590</xmin>
+			<xmax>641</xmax>
+			<ymin>312</ymin>
+			<ymax>531</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>499</xmin>
+			<xmax>592</xmax>
+			<ymin>56</ymin>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

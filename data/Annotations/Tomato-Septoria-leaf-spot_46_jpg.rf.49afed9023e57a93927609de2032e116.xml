@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Tomato-Septoria-leaf-spot_46_jpg.rf.49afed9023e57a93927609de2032e116.jpg</filename>
+	<path>Tomato-Septoria-leaf-spot_46_jpg.rf.49afed9023e57a93927609de2032e116.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>81</xmin>
+			<xmax>418</xmax>
+			<ymin>5</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>399</xmin>
+			<xmax>557</xmax>
+			<ymin>182</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

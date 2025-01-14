@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>septoria-lycopersici-ascomycota-common-fungal-leaf-disease-of-tomato-picture-id128110611_jpg.rf.fed0c09a39708263e6bca4e04ef4293c.jpg</filename>
+	<path>septoria-lycopersici-ascomycota-common-fungal-leaf-disease-of-tomato-picture-id128110611_jpg.rf.fed0c09a39708263e6bca4e04ef4293c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>13</xmin>
+			<xmax>569</xmax>
+			<ymin>68</ymin>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>

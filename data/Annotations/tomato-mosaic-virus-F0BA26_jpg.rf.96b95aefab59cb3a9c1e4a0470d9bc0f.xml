@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>tomato-mosaic-virus-F0BA26_jpg.rf.96b95aefab59cb3a9c1e4a0470d9bc0f.jpg</filename>
+	<path>tomato-mosaic-virus-F0BA26_jpg.rf.96b95aefab59cb3a9c1e4a0470d9bc0f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>332</xmin>
+			<xmax>615</xmax>
+			<ymin>304</ymin>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>421</xmin>
+			<xmax>561</xmax>
+			<ymin>107</ymin>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>221</xmin>
+			<xmax>479</xmax>
+			<ymin>21</ymin>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Healthy Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>183</xmin>
+			<xmax>417</xmax>
+			<ymin>172</ymin>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>

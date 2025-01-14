@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>curling-issues_jpg.rf.8cc6cbc8f979e7837608888132ada976.jpg</filename>
+	<path>curling-issues_jpg.rf.8cc6cbc8f979e7837608888132ada976.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>276</xmin>
+			<xmax>469</xmax>
+			<ymin>303</ymin>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>104</xmin>
+			<xmax>327</xmax>
+			<ymin>347</ymin>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>340</xmin>
+			<xmax>597</xmax>
+			<ymin>181</ymin>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

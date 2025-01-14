@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>septoria-on-rudbeckia_jpg.rf.2fff61385178d6e11a2918b5166b10e2.jpg</filename>
+	<path>septoria-on-rudbeckia_jpg.rf.2fff61385178d6e11a2918b5166b10e2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>42</xmin>
+			<xmax>620</xmax>
+			<ymin>1</ymin>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>7</xmin>
+			<xmax>641</xmax>
+			<ymin>140</ymin>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>

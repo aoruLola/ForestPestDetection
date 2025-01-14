@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>V006_77_1_18_11_03_13_2_9605w_20201016_123_jpg.rf.69e90e6d430828d143a4c80207a4b71c.jpg</filename>
+	<path>V006_77_1_18_11_03_13_2_9605w_20201016_123_jpg.rf.69e90e6d430828d143a4c80207a4b71c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>154</xmin>
+			<xmax>411</xmax>
+			<ymin>56</ymin>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>405</xmin>
+			<xmax>618</xmax>
+			<ymin>116</ymin>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>306</xmin>
+			<xmax>494</xmax>
+			<ymin>524</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

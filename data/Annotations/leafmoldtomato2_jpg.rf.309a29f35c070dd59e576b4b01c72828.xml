@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>leafmoldtomato2_jpg.rf.309a29f35c070dd59e576b4b01c72828.jpg</filename>
+	<path>leafmoldtomato2_jpg.rf.309a29f35c070dd59e576b4b01c72828.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>541</xmax>
+			<ymin>55</ymin>
+			<ymax>624</ymax>
+		</bndbox>
+	</object>
+</annotation>

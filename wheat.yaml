@@ -1,0 +1,9 @@
+train: data/train.txt
+val: data/val.txt
+test: data/test.txt
+
+nc: 4
+
+names: ['Healthy Leaf', 'Leaf Mold', 'Septoria leaf spot', 'Tomato leaf bacterial spot']
+
+#健康叶，番茄叶霉病，番茄斑点病，番茄细菌性斑疹病

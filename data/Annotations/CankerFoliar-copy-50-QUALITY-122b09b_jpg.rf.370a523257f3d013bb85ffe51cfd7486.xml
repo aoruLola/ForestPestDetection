@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>CankerFoliar-copy-50-QUALITY-122b09b_jpg.rf.370a523257f3d013bb85ffe51cfd7486.jpg</filename>
+	<path>CankerFoliar-copy-50-QUALITY-122b09b_jpg.rf.370a523257f3d013bb85ffe51cfd7486.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>110</xmin>
+			<xmax>430</xmax>
+			<ymin>455</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>8</xmin>
+			<xmax>219</xmax>
+			<ymin>104</ymin>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>244</xmin>
+			<xmax>532</xmax>
+			<ymin>225</ymin>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>

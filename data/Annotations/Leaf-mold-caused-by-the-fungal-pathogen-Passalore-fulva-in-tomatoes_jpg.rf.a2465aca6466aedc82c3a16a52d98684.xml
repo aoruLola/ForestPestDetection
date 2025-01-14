@@ -1,0 +1,79 @@
+<annotation>
+	<folder></folder>
+	<filename>Leaf-mold-caused-by-the-fungal-pathogen-Passalore-fulva-in-tomatoes_jpg.rf.a2465aca6466aedc82c3a16a52d98684.jpg</filename>
+	<path>Leaf-mold-caused-by-the-fungal-pathogen-Passalore-fulva-in-tomatoes_jpg.rf.a2465aca6466aedc82c3a16a52d98684.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>250</xmin>
+			<xmax>387</xmax>
+			<ymin>350</ymin>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>326</xmin>
+			<xmax>497</xmax>
+			<ymin>283</ymin>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>531</xmin>
+			<xmax>640</xmax>
+			<ymin>226</ymin>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>23</xmin>
+			<xmax>334</xmax>
+			<ymin>115</ymin>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>543</xmin>
+			<xmax>626</xmax>
+			<ymin>50</ymin>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

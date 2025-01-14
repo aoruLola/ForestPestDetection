@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Fig_-2016_opt_jpg.rf.a205874975d943fbfe346b87caa1e8dc.jpg</filename>
+	<path>Fig_-2016_opt_jpg.rf.a205874975d943fbfe346b87caa1e8dc.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leaf Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>32</xmin>
+			<xmax>563</xmax>
+			<ymin>4</ymin>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>
