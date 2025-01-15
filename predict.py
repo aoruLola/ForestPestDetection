@@ -1,50 +1,32 @@
+import os
 import cv2
+# import torch
 from ultralytics import YOLO
-# 修改！！！！！！
-# Load the YOLOv8 model
-model = YOLO("./best.pt") # 自定义预测模型加载路径
 
-# Open the video file
-video_path = "./demo.mp4" # 自定义预测视频路径
-cap = cv2.VideoCapture(video_path)
+# 加载模型
+model = YOLO("./trained_model/weights/best.pt")
 
-# Get the video properties
-frame_width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
-frame_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
-fps = cap.get(cv2.CAP_PROP_FPS)
+input_folder = './input_images'
+output_folder = './output_images'
+os.makedirs(output_folder, exist_ok=True)
 
-# Define the codec and create VideoWriter object
-fourcc = cv2.VideoWriter_fourcc(*'mp4v')  # Be sure to use lower case
-out = cv2.VideoWriter('./output.mp4', fourcc, fps, (frame_width, frame_height)) # 自定义输出视频路径
+for image_name in os.listdir(input_folder):
+    if image_name.lower().endswith(('.png', '.jpg', '.jpeg')):
 
-# Loop through the video frames
-while cap.isOpened():
-    # Read a frame from the video
-    success, frame = cap.read()
+        image_path = os.path.join(input_folder, image_name)
+        image = cv2.imread(image_path)
 
-    if success:
-        # Run YOLOv8 inference on the frame
-        # results = model(frame)
-        results = model.predict(source=frame, save=True, imgsz=640, conf=0.6, show_conf=False) # 自定义输出预测结果路径
+        results = model(image)
 
-        # results[0].names[0] = "道路积水"
-        # Visualize the results on the frame
-        annotated_frame = results[0].plot(conf=False)
+        if len(results[0].boxes) == 0:
+            print(f"No objects detected in: {image_name}")
+            continue
 
-        # Write the annotated frame to the output file
-        out.write(annotated_frame)
+        annotated_image = results[0].plot()
 
-        # Display the annotated frame (optional)
-        cv2.imshow("YOLOv8 Inference", annotated_frame)
+        output_path = os.path.join(output_folder, image_name)
+        cv2.imwrite(output_path, annotated_image)
 
-        # Break the loop if 'q' is pressed
-        if cv2.waitKey(1) & 0xFF == ord("q"):
-            break
-    else:
-        # Break the loop if the end of the video is reached
-        break
+        print(f"Processed and saved: {output_path}")
 
-# Release the video capture and writer objects
-cap.release()
-out.release()
-cv2.destroyAllWindows()
+print("All images have been processed. XD")
